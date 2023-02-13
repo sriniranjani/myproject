@@ -1,6 +1,6 @@
 from statistics import mode
 print('for alert log')
-file=open(r"/home/sri/Desktop/logBMC/alert.log","r")
+file=open(r"/home/sri/Desktop/logBMC/warning.log","r")
 cnt=0
 c=file.readlines()
 l=[]
